@@ -3,3 +3,5 @@
 obj/**
 bin/**
 runtimes/**
+# Azure publish profiles contain deployment credentials
+*.PublishSettings
